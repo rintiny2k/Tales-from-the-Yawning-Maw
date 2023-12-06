@@ -1,0 +1,31 @@
+{
+  "title": "Tales from the Yawning Maw",
+  "id": "tales-from-the-yawning-maw",
+  "system": "sw5e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "systemVersion": "2.4.0.2.7.0",
+  "lastPlayed": "Wed Dec 06 2023 18:07:07 GMT+0000 (Greenwich Mean Time)",
+  "playtime": 390842,
+  "background": "worlds/tales-from-the-yawning-maw/maps/HD-wallpaper-cantina-band-jawas-mos-eisley-new-hope-star-wars-tat-tatooine.jpg",
+  "description": "<p>Amid the bustle of the Inner Core, only a few systems away from Coruscant where barristers, senators, and emissaries battle with word and contract, stands a cantina not quite like any other. Before there was Coruscant or even what could be recognized as an ancestor of the Galactic Republic, there was a station, and within that station begins the tale of the Yawning Maw.</p><p>A long, long time ago during the days of the Infinite Empire, the prolific rakatan force-wielder Hallast built a space station in the Inner Core as his base and delved deep into a vast and mysterious nebula in search of ever greater access to the Dark Side of the Force. Hallast and his associates began building a stronghold within the nebula's few safe sectors, constructing new lairs within the vast cloud for reasons of their own. In time, their structures grew into the vast labyrinth known today as the Infinite Passage, one of the largest and most dangerous ruins in the galaxy, and the nebula it was built within became known as the Hallast Nebula. Hallast eventually disappeared, as did the empire he once served, but the massive complex he built remains to this day, accessible only through an ancient rakatan teleporter within the decrepit Hallast Station.</p><p>For untold years, the secrets of the Infinite Passage remained hidden from the wider galaxy - only the rakatan station, dubbed Hallast Station, remained as a reminder of its existence. Everyone who entered the Infinite Passage failed to return. Its reputation as a death trap grew to the point that criminals on Coruscant who were facetiously sentenced to exile were forcibly sent into the Passage and left to fend for themselves.</p><p>All of that changed with the arrival of two beings; a human warrior named Durnan and a devaronian ne'er-do-well named Mirk. The duo were the first adventurers to return from the Infinite Passage, laden with riches and ancient treasures. While Mirk used his wealth to buy an estate on a lavish planet, Durnan had different plans. Durnan retired from adventuring and used his wealth to purchase Hallast Station from the sector's authorities. Within this station, he built a cantina that caters to adventurers and those who seek their services, and he called it the Yawning Maw.</p><p>Some of the treasure Durnan looted on his successful foray into the Infinite Passage granted him a life span that exceeds even that of a wookiee. And for centuries, Durnan left delving into the Hallast Nebula to younger folk. Yet one day, something drew him back. Days of waiting for his triumphant return from the dungeon turned to months and then years. For nearly a century, citizens of the galaxy thought him dead. But one cycle, the teleporter unexpectedly activated and Durnan himself manifested before the shocked patrons.</p><p>Few at first believed it could be Durnan, but holo-record and DNA sample comparisons confirmed his reappearance. The Yawning Maw had passed into the hands of his ancestors, but Durnan returned with enough riches for them to quietly retire. Durnan took his customary place behind the bar, raised a toast to his own safe return, and then began serving customers as if he'd never left.</p><p>Adventurers from across the galaxy, and even from beyond the known regions, visit the Yawning Maw to exchange knowledge about the Infinite Passage and other dungeons. Most visitors are content to swap stories by the heating unit, but sometimes a group driven by greed, ambition, or desperation pays the toll for entry and enters the Passage. Most don't survive to make the return trip, but enough come back with riches and tales of adventure to tempt other groups into trying their luck.</p>",
+  "packs": [
+    {
+      "label": "Mass Edit: Presets (MAIN)",
+      "type": "JournalEntry",
+      "ownership": {
+        "GAMEMASTER": "NONE",
+        "PLAYER": "NONE",
+        "ASSISTANT": "NONE"
+      },
+      "name": "mass-edit-presets-main",
+      "path": "packs/mass-edit-presets-main",
+      "system": "sw5e",
+      "flags": {}
+    }
+  ]
+}
